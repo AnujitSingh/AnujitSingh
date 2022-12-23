@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
 
-holopin.io/@anujitsingh
+- holopin.io/@anujitsingh
 
 <!---
 AnujitSingh/AnujitSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
