@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning and teaching code
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
+- 📫 How to reach me via gmail: anujit922@gmail.com 
 
 [![An image of @anujitsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujitsingh)](https://holopin.io/@anujitsingh)
 
