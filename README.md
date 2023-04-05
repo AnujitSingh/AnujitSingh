@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnujitSingh
+- 👋 Hi, I’m Anujit
 - 🌱 I’m currently exploring C++
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me via gmail:  
