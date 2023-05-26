@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Anujit
-- 🌱 I’m currently exploring C++
-- 💞️ I’m looking to collaborate on C++ projects
-- 📫 How to reach me via gmail:  
-
+- ✌️ Open source ❤️
 [![An image of @anujitsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujitsingh)](https://holopin.io/@anujitsingh)
 
 <!---
